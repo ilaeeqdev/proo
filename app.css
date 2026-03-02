@@ -1,0 +1,27 @@
+body{
+    background:#fafafa;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    font-family: 'Grand Hotel', cursive;
+    font-size:30px;
+}
+
+.main-content{
+    margin-top:100px;
+}
+
+.story img{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    border:2px solid #ff4d6d;
+    padding:2px;
+}
+
+.card-header img{
+    width:40px;
+    height:40px;
+    border-radius:50%;
+}
